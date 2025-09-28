@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooria Azarakhsh</h1>
-<h3 align="center">A passionate Engineer learning AI/ML/Sci-ML and Agentic AI in Industry</h3>
+<h3 align="center">A passionate Aerospace Engineer learning AI/ML/Sci-ML and Agentic AI</h3>
 
 <p align="left"> <a href="https://twitter.com/___p00riaaaa92" target="blank"><img src="https://img.shields.io/twitter/follow/___p00riaaaa92?logo=twitter&style=for-the-badge" alt="___p00riaaaa92" /></a> </p>
 
