@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pooria Azarakhsh</h1>
-<h3 align="center">A passionate Aerospace Engineer learning AI/ML/Sci-ML and Agentic AI</h3>
+<!-- <h3 align="center">An Aerospace Engineer learning AI/ML/Sci-ML and Agentic AI</h3> -->
 
 <p align="left"> <a href="https://twitter.com/___p00riaaaa92" target="blank"><img src="https://img.shields.io/twitter/follow/___p00riaaaa92?logo=twitter&style=for-the-badge" alt="___p00riaaaa92" /></a> </p>
 
+- 🔭 I’m currently working as an Mechanical Engineer (R&D specialist)
+
 - 🌱 I’m currently learning **AI/ML/Sci-ML and Agentic AI**
+
+- ⚡ I am passionate about applying AI/ML/Sci‑ML to advance the aerospace industry
 
 - 📫 How to reach me **azarakhsh.pooria92@gmail.com**
 
