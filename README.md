@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/___p00riaaaa92" target="blank"><img src="https://img.shields.io/twitter/follow/___p00riaaaa92?logo=twitter&style=for-the-badge" alt="___p00riaaaa92" /></a> </p>
 
-- 🔭 I’m currently working as a Mechanical Engineer (R&D specialist)
+- 🔭 I’m currently working as a R&D specialist @ Turbomachine division of <a href="https://tapcoglobal.com/" target="_blank">TAPCO</a>
 
 - 🌱 I’m currently learning **AI/ML/Sci-ML and Agentic AI**
 
